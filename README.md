@@ -13,7 +13,7 @@
 [<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 
-br/>
+<br/>
 
 
 ## :bulb: Languages and Tools:
@@ -29,4 +29,9 @@ br/>
 <br/>
 <br/>
 
-<img align="center" alt="Ameya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saharshgoenka&show_icons=true&hide_border=true&bg_color=45,8BBEE8,EEC3AA">
+<img align="center" alt="Saharsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saharshgoenka&show_icons=true&hide_border=true&bg_color=45,8BBEE8,EEC3AA">
+
+[website]: https://saharshgoenka.com/
+[linkedin]: http://www.linkedin.com/in/saharshgoenka
+[twitter]: https://twitter.com/saharshgo
+[instagram]: https://www.instagram.com/saharshgoenka/
