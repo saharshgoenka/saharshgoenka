@@ -3,7 +3,7 @@
 ### I'm a Sophmore at Arizona State University studying Computer Science.
 
 - 🔭 I’m currently working on my personal website!
-- 🌱 I’m currently learning web devleopment!
+- 🌱 I’m currently learning web development!
 - ⚡ Fun fact: I have a Black Belt in Kung Fu!
 
 ## 📫 How to reach me:
