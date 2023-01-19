@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-<img align="center" alt="Saharsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saharshgoenka&show_icons=true&hide_border=true&bg_color=45,8BBEE8,EEC3AA">
+<!-- <img align="center" alt="Saharsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saharshgoenka&show_icons=true&hide_border=true&bg_color=45,8BBEE8,EEC3AA"> -->
 
 [website]: https://saharshgoenka.com/
 [linkedin]: http://www.linkedin.com/in/saharshgoenka
