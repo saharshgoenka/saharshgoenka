@@ -2,9 +2,9 @@
 
 ### I'm a Junior at Arizona State University studying Computer Science.
 
-- 🔭 I’m currently working on my personal website!
-- 🌱 I’m currently learning web development!
-- ⚡ Fun fact: I have a Black Belt in Kung Fu!
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning about databases
+- ⚡ Fun fact: I have a Black Belt in Kung Fu
 
 ## 📫 How to reach me:
 
