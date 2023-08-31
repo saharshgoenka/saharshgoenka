@@ -1,6 +1,6 @@
 # Hi there, I'm Saharsh 👋
 
-### I'm a Sophomore at Arizona State University studying Computer Science.
+### I'm a Junior at Arizona State University studying Computer Science.
 
 - 🔭 I’m currently working on my personal website!
 - 🌱 I’m currently learning web development!
