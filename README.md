@@ -1,9 +1,9 @@
-# Hi there, I'm Saharsh 👋
+# Hey, I'm Saharsh 👋
 
 ### I'm a Junior at Arizona State University studying Computer Science.
 
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning about databases
+- 🔭 I’m working on personal projects
+- 🌱 I’m learning about databases
 - ⚡ Fun fact: I have a Black Belt in Kung Fu
 
 [//]: # (## 📫 How to reach me:)
