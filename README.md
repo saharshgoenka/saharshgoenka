@@ -6,10 +6,12 @@
 - 🌱 I’m currently learning about databases
 - ⚡ Fun fact: I have a Black Belt in Kung Fu
 
-## 📫 How to reach me:
+[//]: # (## 📫 How to reach me:)
 
-[<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/128/Personal.png" />][website]
-[<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[//]: # ()
+[//]: # (<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/128/Personal.png" />)
+
+[//]: # (<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />)
 
 [//]: # ([<img align="left" alt="website" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter])
 
