@@ -1,6 +1,6 @@
 # Hey, I'm Saharsh 👋
 
-### I'm a Junior at Arizona State University studying Computer Science.
+### I'm a Senior at Arizona State University studying Computer Science.
 
 - 🔭 I’m working on personal projects
 - 🌱 I’m learning about databases
