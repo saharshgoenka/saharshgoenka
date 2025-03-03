@@ -8,67 +8,109 @@
 
 ## 🚀 Projects
 
-### Hackathon Registration Platform | sunhacks 2024
+<details open>
+<summary><b>2024</b></summary>
+
+### 🏆 Hackathon Registration Platform | sunhacks
 - Built landing page and registration portal, handling 1900 total users and 800 concurrent users on event day
-- **Tech Stack:** Next.js, DrizzleORM, Clerk (User Management), Cloudflare (R2), Railway, KV/Blob Storage
+- `Next.js` `DrizzleORM` `Clerk` `Cloudflare R2` `Railway` `KV/Blob Storage`
 
-### LLM Powered Search Engine | Preservation Partners of the Fox Valley 2024
+### 🔍 LLM Powered Search Engine | Preservation Partners of the Fox Valley
 - Co-led team to develop a search engine for a museum to search archives of unstructured text, image, and video files
-- **Tech Stack:** Flask, ML Models, Springboot, Elastic Search, React.js
+- `Flask` `ML Models` `Springboot` `Elastic Search` `React.js`
 
-### Private Investor Network | Vanderbilt Financial Group 2024
+### 💼 Private Investor Network | Vanderbilt Financial Group
 - Worked on developing the Private Investor Network - a platform for private equity investment
 - Developed Flask endpoints to collect data and create ratings (pos/neg) on companies based on news sentiment
-- **Tech Stack:** Flask
+- `Flask`
 
-### B:Side Assist | B:Side Capital 2024
+### 📊 B:Side Assist | B:Side Capital
 - Worked on the development of B:Side Assist - an application that provides financial business insights
 - Developed Next.js application to allow customers to upload business financial data for analysis on the dashboard
-- **Tech Stack:** Next.js
+- `Next.js`
+</details>
 
-### Social Media Site - TwitFace 2023
+<details>
+<summary><b>2023</b></summary>
+
+### 💬 Social Media Site - TwitFace
 - Developed a social media platform combining features of Twitter and Facebook
 - Implemented user registration, tweet posting with images, commenting, and account settings
-- **Tech Stack:** PostgreSQL, Python, Flask, HTML, CSS
+- `PostgreSQL` `Python` `Flask` `HTML` `CSS`
 
-### Custom Vision Web App 2023
+### 🐕 Custom Vision Web App
 - Created dog-breed classification ML model by uploading and tagging training images
 - Built web interface for users to upload dog images and receive breed classification results
-- **Tech Stack:** Azure Custom Vision, Python, Flask
+- `Azure Custom Vision` `Python` `Flask`
 
-### Zoom Marketplace Data Collection 2023
+### 📡 Zoom Marketplace Data Collection
 - Developed web scraping framework for data extraction and collection
 - Contributed to privacy-related research initiatives
-- **Tech Stack:** JavaScript, Node.js, Puppeteer, Nodemailer, Linux
+- `JavaScript` `Node.js` `Puppeteer` `Nodemailer` `Linux`
+</details>
 
-### ASU Open Seat Notifications 2022
+<details>
+<summary><b>2022</b></summary>
+
+### 🎓 ASU Open Seat Notifications
 - Created system to track and notify students of open seats in ASU classes
-- **Tech Stack:** JavaScript, Node.js, Puppeteer, Twilio, Oracle Cloud Infrastructure, Git
+- `JavaScript` `Node.js` `Puppeteer` `Twilio` `Oracle Cloud Infrastructure` `Git`
+</details>
 
-### Stock News Data Scraper 2021
+<details>
+<summary><b>2021</b></summary>
+
+### 📈 Stock News Data Scraper
 - Scraped bank analyst upgrade/downgrade data from financial news sites
 - Developed sentiment analysis for company ratings based on news
-- **Tech Stack:** Java, Selenium, ApachePOI, Maven, Git, Flask
+- `Java` `Selenium` `ApachePOI` `Maven` `Git` `Flask`
+</details>
 
 ## 💻 Skills
 
-### Languages
-- Python, JavaScript, Java, HTML/CSS, SQL
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Languages</h3>
+      <ul>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Java</li>
+        <li>HTML/CSS</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Frameworks & Libraries</h3>
+      <ul>
+        <li>Next.js</li>
+        <li>React.js</li>
+        <li>Flask</li>
+        <li>Node.js</li>
+        <li>Springboot</li>
+        <li>Puppeteer</li>
+        <li>Selenium</li>
+        <li>DrizzleORM</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Cloud & Tools</h3>
+      <ul>
+        <li>Azure</li>
+        <li>Oracle Cloud</li>
+        <li>Cloudflare</li>
+        <li>Railway</li>
+        <li>Git</li>
+        <li>PostgreSQL</li>
+        <li>Elastic Search</li>
+        <li>Twilio</li>
+        <li>Clerk</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Frameworks & Libraries
-- Next.js, React.js, Flask, Node.js, Springboot
-- Puppeteer, Selenium, DrizzleORM
+## 📫 Connect With Me
 
-### Cloud & Infrastructure
-- Azure (Custom Vision)
-- Oracle Cloud Infrastructure
-- Cloudflare (R2)
-- Railway
-
-### Tools & Platforms
-- Git
-- PostgreSQL
-- Elastic Search
-- KV/Blob Storage
-- Twilio
-- Clerk (User Management)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saharshgoenka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgoenka1@asu.edu)
