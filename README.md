@@ -2,10 +2,6 @@
 
 ### I'm a Senior at Arizona State University studying Computer Science.
 
-- 🔭 I'm working on personal projects
-- 🌱 I'm learning about databases
-- ⚡ Fun fact: I have a Black Belt in Kung Fu
-
 ## 🚀 Projects
 
 <details open>
