@@ -1,6 +1,6 @@
 # Hey, I'm Saharsh 👋
 
-### I'm a Senior at Arizona State University studying Computer Science.
+### I'm a Graduate Student at UCLA studying Computer Science.
 
 ## 🚀 Projects
 
